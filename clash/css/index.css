@@ -1,0 +1,84 @@
+.MuiPaper-root,
+.layout,
+.base-container,
+.MuiButtonBase-root,
+.MuiBox-root,
+section,
+.base-page {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.layout {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('https://w.wallhaven.cc/full/2y/wallhaven-2yxp16.jpg');
+}
+
+.MuiBox-root,
+.MuiInputBase-root,
+.the-dragbar .MuiButtonBase-root,
+.MuiButton-root,
+.MuiButton-text {
+  background-color: transparent !important;
+}
+
+.MuiButton-contained {
+  background-color: #c89380 !important;
+  /* color: #c89380 !important; */
+}
+
+header,
+.base-page header,
+.page-enter-active header,
+.page-enter header,
+.page-enter-done header,
+.page-enter,
+.page-exit,
+.page-exit header,
+.page-exit-active,
+.page-exit-active header,
+.page-enter-active,
+.page-enter-done,
+.page-enter-done .MuiListItem-root div,
+.page-enter .MuiListItem-root div {
+  background-color: transparent !important;
+}
+
+.the-logo {
+  position: relative;
+}
+
+.the-logo div {
+  opacity: 0;
+}
+
+.the-logo::before {
+  content: 'PINE-STORM';
+  position: absolute;
+  top: 50%;
+  bottom: 0;
+  left: 10%;
+  right: 0;
+  transform: translate(5%, -45%);
+  font-weight: 700;
+  white-space: nowrap;
+  font-size: 20px;
+  background-image: -webkit-linear-gradient(120deg, #c89380, #747bff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: blur(2px);
+}
+
+.the-logo::after {
+  content: '菠萝吹雪';
+  position: absolute;
+  top: 50%;
+  bottom: 0;
+  left: 24%;
+  right: 0;
+  transform: translate(0, -50%);
+  font-weight: 700;
+  white-space: nowrap;
+  font-size: 20px;
+  color: #333;
+}
