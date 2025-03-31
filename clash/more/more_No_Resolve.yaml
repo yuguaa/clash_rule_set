@@ -14,3 +14,7 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,vercel
+  - DOMAIN-SUFFIX,ohmyposh.dev
+  - DOMAIN-SUFFIX,warp.dev
+  - DOMAIN-KEYWORD,cloudflare
+
