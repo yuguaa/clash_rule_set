@@ -11,3 +11,6 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,google.com
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,vercel
