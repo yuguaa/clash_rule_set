@@ -17,3 +17,44 @@ payload:
   - DOMAIN-SUFFIX,ohmyposh.dev
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-SUFFIX,typora.io
+  - DOMAIN-SUFFIX,stackblitz.com
+  - DOMAIN-SUFFIX,codesandbox.io
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,cdnjs.com
+  - DOMAIN-SUFFIX,aws.amazon.com
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,cloud.google.com
+  - DOMAIN-SUFFIX,slack.com
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,zoom.us
+  - DOMAIN-SUFFIX,dropbox.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,box.com
+  - DOMAIN-SUFFIX,mega.nz
+  - DOMAIN-SUFFIX,quora.com
+  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,tumblr.com
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,vimeo.com
+  - DOMAIN-SUFFIX,dailymotion.com
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,soundcloud.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,appstore.com
+  - DOMAIN-SUFFIX,play.google.com
+  - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,bitbucket.org
