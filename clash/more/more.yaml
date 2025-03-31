@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,vercel.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,vercel.app
